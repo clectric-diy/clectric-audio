@@ -1,4 +1,4 @@
-clectric designs and builds synth modules for the AE Modular format and the growing SynthDIY community. Our mission is to make modular synths more accessible, playful, and personal—whether you're just starting out or building your own custom system.
+clectric designs and builds synth modules for the AE Modular format and its growing SynthDIY community. Our mission is to make modular synths more accessible, playful, and personal—whether you're just starting out or building your own custom system.
 
 We sell our own modules, but we're more excited about our work at [clectric.diy](https://clectric.diy). There we focus on open-source projects that blend digital and analog sound-making, including modules based on the Electrosmith Daisy Seed platform. Everything we create in that community is designed to be hackable, affordable, and fun to explore.
 
